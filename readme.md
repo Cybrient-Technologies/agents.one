@@ -16,9 +16,9 @@ dependencies (stdlib only), and is designed to:
 ## Quick start (using an example)
 
 1. Open your Agents.one dashboard → **Agent** → **Upload**.
-2. Upload one of the `agent.py` files from `examples/*`.
+2. Zip an example `agent.py` (and any other `.py` files you include) and upload the **.zip**.
 3. (Optional) Add credentials in **Agent → Credentials** (e.g. `AGENT_OPENAI_KEY`, `AGENT_OWM_KEY`).
-4. Open your public Playground link and try it live.
+4. Once approved (if required), open your public Playground link and try it live.
 
 ---
 
